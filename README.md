@@ -14,8 +14,8 @@ A full-featured e-commerce web app built with **React 19 + Redux Toolkit**, focu
 frontend engineering depth — state management, routing, pagination, auth, and admin CRUD — for
 internship applications.
  
-**🔗 Live Demo:** [PUT_LIVE_DEMO_LINK_HERE](PUT_LIVE_DEMO_LINK_HERE)
-**🔗 Backend API:** [PUT_BACKEND_API_LINK_HERE](PUT_BACKEND_API_LINK_HERE)
+**🔗 Live Demo:** [https://shopease-beige-pi.vercel.app](https://shopease-beige-pi.vercel.app)
+**🔗 Backend API:** [https://shopease-backend-8ucj.onrender.com](https://shopease-backend-8ucj.onrender.com)
 **📂 Repo:** [github.com/Akshat2921/shopease](https://github.com/Akshat2921/shopease)
  
 ---
