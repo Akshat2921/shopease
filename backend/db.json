@@ -1,0 +1,797 @@
+{
+  "products": [
+    {
+      "id": "p001",
+      "title": "Classic Cotton T-Shirt",
+      "price": 499,
+      "discount": 0,
+      "description": "Soft 100% cotton crew-neck t-shirt, perfect for everyday wear.",
+      "category": "clothing",
+      "image": "https://picsum.photos/seed/p001/600/600",
+      "rating": {
+        "rate": 3.6,
+        "count": 321
+      },
+      "stock": 31
+    },
+    {
+      "id": "p002",
+      "title": "Slim Fit Denim Jeans",
+      "price": 1299,
+      "discount": 10,
+      "description": "Stretchable slim-fit denim jeans with a modern cut.",
+      "category": "clothing",
+      "image": "https://picsum.photos/seed/p002/600/600",
+      "rating": {
+        "rate": 3.8,
+        "count": 144
+      },
+      "stock": 69
+    },
+    {
+      "id": "p003",
+      "title": "Hooded Sweatshirt",
+      "price": 1399,
+      "discount": 0,
+      "description": "Fleece-lined hoodie with kangaroo pocket.",
+      "category": "clothing",
+      "image": "https://picsum.photos/seed/p003/600/600",
+      "rating": {
+        "rate": 4.4,
+        "count": 72
+      },
+      "stock": 3
+    },
+    {
+      "id": "p004",
+      "title": "Formal Button-Down Shirt",
+      "price": 999,
+      "discount": 0,
+      "description": "Wrinkle-resistant cotton-blend shirt for office wear.",
+      "category": "clothing",
+      "image": "https://picsum.photos/seed/p004/600/600",
+      "rating": {
+        "rate": 3.9,
+        "count": 557
+      },
+      "stock": 77
+    },
+    {
+      "id": "p005",
+      "title": "Women's Floral Maxi Dress",
+      "price": 1599,
+      "discount": 0,
+      "description": "Lightweight rayon maxi dress with floral print, perfect for summer.",
+      "category": "clothing",
+      "image": "https://picsum.photos/seed/p005/600/600",
+      "rating": {
+        "rate": 4.3,
+        "count": 773
+      },
+      "stock": 69
+    },
+    {
+      "id": "p006",
+      "title": "Men's Winter Jacket",
+      "price": 2999,
+      "discount": 25,
+      "description": "Water-resistant puffer jacket with thermal lining.",
+      "category": "clothing",
+      "image": "https://picsum.photos/seed/p006/600/600",
+      "rating": {
+        "rate": 3.9,
+        "count": 643
+      },
+      "stock": 35
+    },
+    {
+      "id": "p007",
+      "title": "Wireless Bluetooth Headphones",
+      "price": 2499,
+      "discount": 0,
+      "description": "Over-ear wireless headphones with 30-hour battery life and active noise cancellation.",
+      "category": "electronics",
+      "image": "https://picsum.photos/seed/p007/600/600",
+      "rating": {
+        "rate": 4.6,
+        "count": 203
+      },
+      "stock": 54
+    },
+    {
+      "id": "p008",
+      "title": "Smart Fitness Band",
+      "price": 1799,
+      "discount": 20,
+      "description": "Track steps, heart rate, and sleep with a 10-day battery life.",
+      "category": "electronics",
+      "image": "https://picsum.photos/seed/p008/600/600",
+      "rating": {
+        "rate": 4,
+        "count": 260
+      },
+      "stock": 43
+    },
+    {
+      "id": "p009",
+      "title": "Mechanical Keyboard",
+      "price": 3499,
+      "discount": 0,
+      "description": "RGB backlit mechanical keyboard with blue switches.",
+      "category": "electronics",
+      "image": "https://picsum.photos/seed/p009/600/600",
+      "rating": {
+        "rate": 3.7,
+        "count": 139
+      },
+      "stock": 45
+    },
+    {
+      "id": "p010",
+      "title": "Wireless Mouse",
+      "price": 699,
+      "discount": 20,
+      "description": "Ergonomic wireless mouse with adjustable DPI.",
+      "category": "electronics",
+      "image": "https://picsum.photos/seed/p010/600/600",
+      "rating": {
+        "rate": 4.4,
+        "count": 866
+      },
+      "stock": 5
+    },
+    {
+      "id": "p011",
+      "title": "Portable Bluetooth Speaker",
+      "price": 1599,
+      "discount": 30,
+      "description": "Waterproof portable speaker with 12-hour playtime.",
+      "category": "electronics",
+      "image": "https://picsum.photos/seed/p011/600/600",
+      "rating": {
+        "rate": 4.3,
+        "count": 427
+      },
+      "stock": 10
+    },
+    {
+      "id": "p012",
+      "title": "65W Fast Charger",
+      "price": 1299,
+      "discount": 15,
+      "description": "USB-C GaN fast charger, compatible with phones and laptops.",
+      "category": "electronics",
+      "image": "https://picsum.photos/seed/p012/600/600",
+      "rating": {
+        "rate": 4.7,
+        "count": 673
+      },
+      "stock": 46
+    },
+    {
+      "id": "p013",
+      "title": "4K Action Camera",
+      "price": 5999,
+      "discount": 10,
+      "description": "Waterproof 4K action camera with image stabilization.",
+      "category": "electronics",
+      "image": "https://picsum.photos/seed/p013/600/600",
+      "rating": {
+        "rate": 4.5,
+        "count": 86
+      },
+      "stock": 29
+    },
+    {
+      "id": "p014",
+      "title": "Smart LED Bulb",
+      "price": 599,
+      "discount": 15,
+      "description": "Wi-Fi enabled smart bulb, 16 million colors, voice assistant support.",
+      "category": "electronics",
+      "image": "https://picsum.photos/seed/p014/600/600",
+      "rating": {
+        "rate": 4.9,
+        "count": 915
+      },
+      "stock": 29
+    },
+    {
+      "id": "p015",
+      "title": "Stainless Steel Water Bottle",
+      "price": 599,
+      "discount": 0,
+      "description": "Double-walled insulated bottle, keeps drinks cold for 24 hours.",
+      "category": "home",
+      "image": "https://picsum.photos/seed/p015/600/600",
+      "rating": {
+        "rate": 4.1,
+        "count": 504
+      },
+      "stock": 46
+    },
+    {
+      "id": "p016",
+      "title": "Non-Stick Frying Pan",
+      "price": 899,
+      "discount": 0,
+      "description": "26cm non-stick frying pan, induction compatible.",
+      "category": "home",
+      "image": "https://picsum.photos/seed/p016/600/600",
+      "rating": {
+        "rate": 4.1,
+        "count": 254
+      },
+      "stock": 34
+    },
+    {
+      "id": "p017",
+      "title": "Ceramic Coffee Mug Set",
+      "price": 649,
+      "discount": 0,
+      "description": "Set of 4 ceramic mugs, microwave and dishwasher safe.",
+      "category": "home",
+      "image": "https://picsum.photos/seed/p017/600/600",
+      "rating": {
+        "rate": 4.4,
+        "count": 215
+      },
+      "stock": 68
+    },
+    {
+      "id": "p018",
+      "title": "Table Lamp",
+      "price": 749,
+      "discount": 10,
+      "description": "Adjustable LED desk lamp with 3 brightness modes.",
+      "category": "home",
+      "image": "https://picsum.photos/seed/p018/600/600",
+      "rating": {
+        "rate": 3.8,
+        "count": 428
+      },
+      "stock": 34
+    },
+    {
+      "id": "p019",
+      "title": "Memory Foam Pillow",
+      "price": 899,
+      "discount": 10,
+      "description": "Orthopedic cervical support pillow for better sleep.",
+      "category": "home",
+      "image": "https://picsum.photos/seed/p019/600/600",
+      "rating": {
+        "rate": 4.5,
+        "count": 903
+      },
+      "stock": 7
+    },
+    {
+      "id": "p020",
+      "title": "Cotton Bedsheet Set",
+      "price": 1499,
+      "discount": 10,
+      "description": "King-size 300 thread count cotton bedsheet with 2 pillow covers.",
+      "category": "home",
+      "image": "https://picsum.photos/seed/p020/600/600",
+      "rating": {
+        "rate": 4.7,
+        "count": 864
+      },
+      "stock": 40
+    },
+    {
+      "id": "p021",
+      "title": "Running Shoes",
+      "price": 2199,
+      "discount": 25,
+      "description": "Lightweight running shoes with breathable mesh upper.",
+      "category": "footwear",
+      "image": "https://picsum.photos/seed/p021/600/600",
+      "rating": {
+        "rate": 3.9,
+        "count": 256
+      },
+      "stock": 72
+    },
+    {
+      "id": "p022",
+      "title": "Formal Leather Shoes",
+      "price": 2599,
+      "discount": 20,
+      "description": "Handcrafted leather formal shoes for office wear.",
+      "category": "footwear",
+      "image": "https://picsum.photos/seed/p022/600/600",
+      "rating": {
+        "rate": 3.9,
+        "count": 551
+      },
+      "stock": 50
+    },
+    {
+      "id": "p023",
+      "title": "Casual Sneakers",
+      "price": 1499,
+      "discount": 30,
+      "description": "Everyday canvas sneakers with cushioned insole.",
+      "category": "footwear",
+      "image": "https://picsum.photos/seed/p023/600/600",
+      "rating": {
+        "rate": 3.8,
+        "count": 182
+      },
+      "stock": 31
+    },
+    {
+      "id": "p024",
+      "title": "Women's Ankle Boots",
+      "price": 2199,
+      "discount": 15,
+      "description": "Faux-leather ankle boots with side zip closure.",
+      "category": "footwear",
+      "image": "https://picsum.photos/seed/p024/600/600",
+      "rating": {
+        "rate": 4.6,
+        "count": 478
+      },
+      "stock": 74
+    },
+    {
+      "id": "p025",
+      "title": "Flip Flops",
+      "price": 349,
+      "discount": 25,
+      "description": "Comfortable EVA sole flip flops for daily wear.",
+      "category": "footwear",
+      "image": "https://picsum.photos/seed/p025/600/600",
+      "rating": {
+        "rate": 4.1,
+        "count": 181
+      },
+      "stock": 65
+    },
+    {
+      "id": "p026",
+      "title": "Leather Wallet",
+      "price": 799,
+      "discount": 30,
+      "description": "Genuine leather bi-fold wallet with 6 card slots.",
+      "category": "accessories",
+      "image": "https://picsum.photos/seed/p026/600/600",
+      "rating": {
+        "rate": 3.7,
+        "count": 88
+      },
+      "stock": 14
+    },
+    {
+      "id": "p027",
+      "title": "Sunglasses UV400",
+      "price": 999,
+      "discount": 0,
+      "description": "Polarized sunglasses with full UV protection.",
+      "category": "accessories",
+      "image": "https://picsum.photos/seed/p027/600/600",
+      "rating": {
+        "rate": 4.4,
+        "count": 851
+      },
+      "stock": 54
+    },
+    {
+      "id": "p028",
+      "title": "Backpack 30L",
+      "price": 1499,
+      "discount": 0,
+      "description": "Water-resistant travel backpack with laptop sleeve.",
+      "category": "accessories",
+      "image": "https://picsum.photos/seed/p028/600/600",
+      "rating": {
+        "rate": 4.1,
+        "count": 650
+      },
+      "stock": 59
+    },
+    {
+      "id": "p029",
+      "title": "Analog Wrist Watch",
+      "price": 1299,
+      "discount": 15,
+      "description": "Minimalist analog watch with genuine leather strap.",
+      "category": "accessories",
+      "image": "https://picsum.photos/seed/p029/600/600",
+      "rating": {
+        "rate": 4.9,
+        "count": 921
+      },
+      "stock": 1
+    },
+    {
+      "id": "p030",
+      "title": "Canvas Tote Bag",
+      "price": 599,
+      "discount": 0,
+      "description": "Durable canvas tote bag, perfect for daily essentials.",
+      "category": "accessories",
+      "image": "https://picsum.photos/seed/p030/600/600",
+      "rating": {
+        "rate": 4.5,
+        "count": 589
+      },
+      "stock": 34
+    },
+    {
+      "id": "p031",
+      "title": "Yoga Mat",
+      "price": 899,
+      "discount": 20,
+      "description": "Anti-slip 6mm thick yoga mat with carry strap.",
+      "category": "sports",
+      "image": "https://picsum.photos/seed/p031/600/600",
+      "rating": {
+        "rate": 3.7,
+        "count": 485
+      },
+      "stock": 20
+    },
+    {
+      "id": "p032",
+      "title": "Cricket Bat",
+      "price": 1899,
+      "discount": 30,
+      "description": "English willow cricket bat, lightweight and durable.",
+      "category": "sports",
+      "image": "https://picsum.photos/seed/p032/600/600",
+      "rating": {
+        "rate": 3.6,
+        "count": 779
+      },
+      "stock": 33
+    },
+    {
+      "id": "p033",
+      "title": "Adjustable Dumbbells Set",
+      "price": 3999,
+      "discount": 0,
+      "description": "5kg-25kg adjustable dumbbell pair for home workouts.",
+      "category": "sports",
+      "image": "https://picsum.photos/seed/p033/600/600",
+      "rating": {
+        "rate": 4.3,
+        "count": 148
+      },
+      "stock": 80
+    },
+    {
+      "id": "p034",
+      "title": "Football",
+      "price": 799,
+      "discount": 15,
+      "description": "Size 5 match-quality football with textured grip.",
+      "category": "sports",
+      "image": "https://picsum.photos/seed/p034/600/600",
+      "rating": {
+        "rate": 4.7,
+        "count": 559
+      },
+      "stock": 77
+    },
+    {
+      "id": "p035",
+      "title": "Resistance Bands Set",
+      "price": 599,
+      "discount": 10,
+      "description": "Set of 5 resistance bands for strength training.",
+      "category": "sports",
+      "image": "https://picsum.photos/seed/p035/600/600",
+      "rating": {
+        "rate": 3.8,
+        "count": 820
+      },
+      "stock": 20
+    },
+    {
+      "id": "p036",
+      "title": "Vitamin C Face Serum",
+      "price": 649,
+      "discount": 0,
+      "description": "Brightening serum with 10% Vitamin C and hyaluronic acid.",
+      "category": "beauty",
+      "image": "https://picsum.photos/seed/p036/600/600",
+      "rating": {
+        "rate": 4.4,
+        "count": 540
+      },
+      "stock": 2
+    },
+    {
+      "id": "p037",
+      "title": "Herbal Shampoo 400ml",
+      "price": 349,
+      "discount": 0,
+      "description": "Sulfate-free herbal shampoo for all hair types.",
+      "category": "beauty",
+      "image": "https://picsum.photos/seed/p037/600/600",
+      "rating": {
+        "rate": 4.8,
+        "count": 939
+      },
+      "stock": 39
+    },
+    {
+      "id": "p038",
+      "title": "Matte Lipstick Set",
+      "price": 599,
+      "discount": 10,
+      "description": "Set of 3 long-lasting matte lipsticks.",
+      "category": "beauty",
+      "image": "https://picsum.photos/seed/p038/600/600",
+      "rating": {
+        "rate": 3.7,
+        "count": 939
+      },
+      "stock": 72
+    },
+    {
+      "id": "p039",
+      "title": "Electric Trimmer",
+      "price": 899,
+      "discount": 0,
+      "description": "Cordless rechargeable trimmer with 4 length settings.",
+      "category": "beauty",
+      "image": "https://picsum.photos/seed/p039/600/600",
+      "rating": {
+        "rate": 3.7,
+        "count": 537
+      },
+      "stock": 8
+    },
+    {
+      "id": "p040",
+      "title": "Atomic Habits",
+      "price": 399,
+      "discount": 0,
+      "description": "A practical guide to building good habits and breaking bad ones.",
+      "category": "books",
+      "image": "https://picsum.photos/seed/p040/600/600",
+      "rating": {
+        "rate": 3.8,
+        "count": 526
+      },
+      "stock": 70
+    },
+    {
+      "id": "p041",
+      "title": "The Silent Patient",
+      "price": 349,
+      "discount": 0,
+      "description": "A gripping psychological thriller novel.",
+      "category": "books",
+      "image": "https://picsum.photos/seed/p041/600/600",
+      "rating": {
+        "rate": 3.9,
+        "count": 933
+      },
+      "stock": 77
+    },
+    {
+      "id": "p042",
+      "title": "Sapiens: A Brief History of Humankind",
+      "price": 499,
+      "discount": 25,
+      "description": "An exploration of the history and impact of Homo sapiens.",
+      "category": "books",
+      "image": "https://picsum.photos/seed/p042/600/600",
+      "rating": {
+        "rate": 4.9,
+        "count": 592
+      },
+      "stock": 25
+    },
+    {
+      "id": "p043",
+      "title": "Rich Dad Poor Dad",
+      "price": 299,
+      "discount": 15,
+      "description": "A personal finance classic on building wealth and financial literacy.",
+      "category": "books",
+      "image": "https://picsum.photos/seed/p043/600/600",
+      "rating": {
+        "rate": 4.1,
+        "count": 727
+      },
+      "stock": 47
+    },
+    {
+      "id": "p044",
+      "title": "Building Blocks Set (200pc)",
+      "price": 999,
+      "discount": 30,
+      "description": "Creative building block set for kids, boosts imagination.",
+      "category": "toys",
+      "image": "https://picsum.photos/seed/p044/600/600",
+      "rating": {
+        "rate": 4.8,
+        "count": 502
+      },
+      "stock": 15
+    },
+    {
+      "id": "p045",
+      "title": "Remote Control Car",
+      "price": 1499,
+      "discount": 10,
+      "description": "High-speed RC car with rechargeable battery.",
+      "category": "toys",
+      "image": "https://picsum.photos/seed/p045/600/600",
+      "rating": {
+        "rate": 3.9,
+        "count": 386
+      },
+      "stock": 2
+    },
+    {
+      "id": "p046",
+      "title": "Plush Teddy Bear 24-inch",
+      "price": 799,
+      "discount": 10,
+      "description": "Soft and huggable oversized teddy bear.",
+      "category": "toys",
+      "image": "https://picsum.photos/seed/p046/600/600",
+      "rating": {
+        "rate": 4.4,
+        "count": 47
+      },
+      "stock": 9
+    },
+    {
+      "id": "p047",
+      "title": "Board Game - Strategy Edition",
+      "price": 899,
+      "discount": 0,
+      "description": "Family strategy board game for 2-6 players.",
+      "category": "toys",
+      "image": "https://picsum.photos/seed/p047/600/600",
+      "rating": {
+        "rate": 3.9,
+        "count": 72
+      },
+      "stock": 42
+    },
+    {
+      "id": "p048",
+      "title": "Organic Almonds 500g",
+      "price": 549,
+      "discount": 0,
+      "description": "Premium quality organic California almonds.",
+      "category": "grocery",
+      "image": "https://picsum.photos/seed/p048/600/600",
+      "rating": {
+        "rate": 4.3,
+        "count": 325
+      },
+      "stock": 62
+    },
+    {
+      "id": "p049",
+      "title": "Extra Virgin Olive Oil 1L",
+      "price": 799,
+      "discount": 10,
+      "description": "Cold-pressed extra virgin olive oil from Spain.",
+      "category": "grocery",
+      "image": "https://picsum.photos/seed/p049/600/600",
+      "rating": {
+        "rate": 4.3,
+        "count": 780
+      },
+      "stock": 73
+    },
+    {
+      "id": "p050",
+      "title": "Assorted Herbal Tea Box",
+      "price": 349,
+      "discount": 30,
+      "description": "Box of 25 assorted herbal tea bags.",
+      "category": "grocery",
+      "image": "https://picsum.photos/seed/p050/600/600",
+      "rating": {
+        "rate": 3.9,
+        "count": 524
+      },
+      "stock": 52
+    },
+    {
+      "id": "p051",
+      "title": "Dark Chocolate Bar Pack",
+      "price": 449,
+      "discount": 10,
+      "description": "Pack of 6 70% cocoa dark chocolate bars.",
+      "category": "grocery",
+      "image": "https://picsum.photos/seed/p051/600/600",
+      "rating": {
+        "rate": 3.7,
+        "count": 714
+      },
+      "stock": 55
+    }
+  ],
+  "users": [
+    {
+      "id": "u001",
+      "username": "admin",
+      "email": "admin@shop.com",
+      "password": "admin123",
+      "isAdmin": true
+    },
+    {
+      "id": "u002",
+      "username": "john-doe",
+      "email": "john@doe.com",
+      "password": "john1234",
+      "isAdmin": false
+    },
+    {
+      "username": "Akshat29",
+      "email": "akshatjain292103@gmail.com",
+      "password": "123654",
+      "id": "OuiB_owoWgQ-Lh9WqF629",
+      "isAdmin": false
+    }
+  ],
+  "cart": [],
+  "reviews": [
+    {
+      "id": "r001",
+      "productId": "p003",
+      "userId": "u002",
+      "username": "john-doe",
+      "rating": 5,
+      "comment": "Amazing sound quality and battery lasts forever!",
+      "date": "2026-05-12"
+    },
+    {
+      "id": "r002",
+      "productId": "p003",
+      "userId": "u001",
+      "username": "admin",
+      "rating": 4,
+      "comment": "Great headphones, noise cancellation works well.",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "r003",
+      "productId": "p017",
+      "userId": "u002",
+      "username": "john-doe",
+      "rating": 5,
+      "comment": "Sturdy build, fits a 15-inch laptop easily.",
+      "date": "2026-05-20"
+    }
+  ],
+  "orders": [
+    {
+      "id": "x82tRVazU6O2o9g_2gdsS",
+      "userId": "OuiB_owoWgQ-Lh9WqF629",
+      "items": [
+        {
+          "id": "p046",
+          "title": "Plush Teddy Bear 24-inch",
+          "price": 799,
+          "image": "https://picsum.photos/seed/p046/600/600",
+          "qty": 7
+        }
+      ],
+      "address": {
+        "fullName": "Akshat29",
+        "phone": "9336994550",
+        "street": "thzmhjfgxfznhbnfzch",
+        "city": "Varanasi",
+        "state": "up",
+        "pincode": "221010"
+      },
+      "total": 5593,
+      "status": "placed",
+      "createdAt": "2026-07-02T01:10:38.663Z"
+    }
+  ]
+}

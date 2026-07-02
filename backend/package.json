@@ -1,0 +1,12 @@
+{
+  "name": "shopease-backend",
+  "version": "1.0.0",
+  "description": "Mock REST API for ShopEase using json-server. Purely a data store (products, users, cart) for the React frontend.",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3000",
+    "dev": "json-server --watch db.json --port 3000"
+  },
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
