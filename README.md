@@ -1,4 +1,4 @@
-# ShopEase — Full-Stack E-Commerce (Frontend-Heavy)
+# 🛒 ShopEase — Full-Stack E-Commerce Platform
 
 A React + Redux Toolkit e-commerce app, built to showcase **frontend engineering** for internship
 applications. The backend is intentionally minimal — a `json-server` data store — since the goal is
