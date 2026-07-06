@@ -19,6 +19,18 @@ internship applications.
 **📂 Repo:** [github.com/Akshat2921/shopease](https://github.com/Akshat2921/shopease)
  
 ---
+
+## 💡 Why This Exists
+
+Most portfolio e-commerce clones stop at "add to cart." I wanted to show the parts that
+actually matter in production: role-based access (admin vs user), a real checkout→order-history
+flow, and pagination that doesn't fall over past a handful of products.
+
+**Trade-off:** the backend is a thin `json-server` layer on purpose — the goal here is to
+demonstrate frontend/Redux architecture depth, not backend engineering. Auth is a plain-text
+lookup, which is explicitly called out as non-production-grade in the caveats section below.
+
+---
  
 ## ✨ Features
  
