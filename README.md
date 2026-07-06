@@ -117,13 +117,26 @@ shopease/
  
 ---
  
+## 📈 Scaling Considerations
+
+At 51 products, client-side filtering/pagination via `json-server` query params works fine.
+Past a few thousand products, I'd move filtering/search to the backend (e.g. proper DB indexes
+or a search service) and add infinite-scroll instead of full-page fetch — the current
+`_page`/`_limit` pattern would still work but the UX would need virtualized lists.
+
+---
+
 ## 📝 Notes / Honest Caveats
- 
+
 - Auth is a plain-text lookup against `json-server` — fine for a portfolio demo, **not**
   production-grade auth.
+- Styling uses **Tailwind CSS** (already set up in the original scaffold) rather than
+  `styled-components`, to keep one consistent styling approach across the app.
 - Cart state lives in Redux + `localStorage` (not synced to the backend `cart` collection) to keep
   the checkout flow simple.
+
 ---
+
  
 ## 👤 Author
  
