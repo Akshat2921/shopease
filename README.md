@@ -193,3 +193,5 @@ Demo accounts (seeded in `backend/db.json`):
   on your resume — just say the word.
 - Cart state lives in Redux + `localStorage` (not synced to the backend `cart` collection) to keep
   the checkout flow simple for a demo project.
+
+Testing Autter's PR review workflow.
